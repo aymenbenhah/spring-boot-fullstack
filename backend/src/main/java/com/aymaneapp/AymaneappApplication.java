@@ -8,5 +8,7 @@ public class AymaneappApplication {
     public static void main(String[] args) {
         SpringApplication.run(AymaneappApplication.class, args);
         System.out.println("test git");
+
+
     }
 }
